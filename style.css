@@ -20,7 +20,7 @@ body, html {
         background-repeat: no-repeat;
         background-size: cover;
         height: 100%;
-        overflow-x: scroll;
+        /* overflow-x: scroll; */
     }
 
 .header {
@@ -29,7 +29,6 @@ body, html {
     text-transform: uppercase;
     font-size: large;
     color:white;
-
     text-align: center;
     padding: 30px;
 }
